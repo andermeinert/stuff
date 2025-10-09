@@ -1,4 +1,6 @@
-# Sync github with local file:
+# Github commands and shnuff
+
+## Sync local onto github
 
 git add <file>           
 
@@ -9,10 +11,10 @@ git push
 ---
 
 
-git st . . . . . . . . . .Check Status with github
+Check Status with github --- git st
 
-git s . . . . . . . . . . Save file locally
+Save file locally --- git s
 
-git sp . . . . . . . . . .Restore local file
+Restore local file --- git sp
 
-git clone <url> . . . . . Copies a github file into directory
+Copies a github file into directory --- git clone <url>
