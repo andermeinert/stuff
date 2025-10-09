@@ -4,7 +4,7 @@
 
 git add <file>           
 
-git ci -m "commit msg"   
+git ci -m "commit msg" (replace "commit msg" with update log)
 
 git push    
 
